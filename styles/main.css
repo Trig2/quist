@@ -282,6 +282,9 @@ body {
   .container-fluid .item-container {
     display: block;
   }
+  .container-fluid .item-container .product-item{
+    margin-bottom: 20px;
+  }
   .sidebar .box-container {
     display: flex !important;
     flex-direction: column !important;
